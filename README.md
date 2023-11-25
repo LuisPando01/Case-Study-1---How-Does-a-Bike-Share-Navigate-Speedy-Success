@@ -1,14 +1,24 @@
-<h1>Data Analysis - How does a Bike-Share Navigate Speedy Success?</h1>
+<h1>Data Analysis - Bike-Share Data Analysis</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project sonsist on working with a dataset of bike rides in 2022, in order to discover insights (metrics) that could benefit the company. There are three R files, each one consist on a main phase of the project, these are: data preparation, data cleaning and data analysis. This file explains the content of each one and the result.
+
 <br />
 
-<h2>Languages and Utilities Used</h2>
+<h2>Content</h2>
 
-- <b>R programming language</b> 
+- <b>Phase 1: Data Preparation</b>
+- <b>Phase 2: Data Cleaning</b>
+- <b>Phase 2: Data Cleaning</b>
+- <b>Conclusion</b>
 
-<h2>Program walk-through:</h2>
+<h2>Phase 1: Data Preparation</h2>
+
+<h2>Phase 2: Data Cleaning</h2>
+
+<h2>Phase 2: Data Cleaning</h2>
+
+<h2>Conclusion</h2>
 
 
 <!--
