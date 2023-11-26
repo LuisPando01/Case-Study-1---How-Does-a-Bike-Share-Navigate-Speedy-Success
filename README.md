@@ -9,14 +9,14 @@ This project sonsist on working with a dataset of bike rides in 2022, in order t
 
 - <b>[Phase 1: Data Preparation](#phase-1-data-preparation)</b>
 - <b>[Phase 2: Data Cleaning](#phase-2-data-cleaning)</b>
-- <b>Phase 3: Data Analysis</b>
+- <b>[Phase 3: Data Analysis](phase-3-data-analysis)</b>
 - <b>Conclusion</b>
 
 <h2>Phase 1: Data Preparation</h2>
 
 <h2>Phase 2: Data Cleaning</h2>
 
-<h2>Phase 2: Data Analysis</h2>
+<h2>Phase 3: Data Analysis</h2>
 
 <h2>Conclusion</h2>
 
