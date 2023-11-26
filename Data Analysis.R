@@ -46,7 +46,7 @@ Clean_trip_data %>%
   ggplot(aes(x = week_day, y = number_of_ride, fill = member_casual)) +
   geom_col(position = "dodge")
 
-#Visualization for number of rides
+#Visualization for average duration of rides
 Clean_trip_data %>% 
   group_by(member_casual, week_day) %>% 
   summarise(number_of_ride = n(),
