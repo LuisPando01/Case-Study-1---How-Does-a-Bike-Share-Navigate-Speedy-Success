@@ -39,6 +39,15 @@ Show the following metrics and graphics:
 
 <h2>Conclusion</h2>
 
+- <b>Less rides in the winter months.<b>
+- <b>More ride duration for casual and members on friday and saturday.<b>
+- <b>The ride duration of casual riders increase almost double on fridays and saturdays.<b>
+- <b>From monday to tuesday, there is double the ride of members compared to casual ones.<b>
+- <b>On friday, saturday and sunday, the number of rides of casual and members is the same.<b>
+
+
+The company could make a marketing campaign with the goal to increase members targeting casual riders by offering more benefits of a ride on friday, saturday and sunday, when they use more this service.
+
 
 <!--
  ```diff
