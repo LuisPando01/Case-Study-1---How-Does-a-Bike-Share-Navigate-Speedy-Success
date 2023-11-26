@@ -21,14 +21,21 @@ Combine the data and validate.
 <h2>Phase 2: Data Cleaning</h2>
 
 Remove data that is going to bias the analysis, for example:
-- <b>Missing values (NA)<b>
-- <b>Duplicates<b>
-- <b>Mistakes on data input (Unreal values)<b>
-Separate the date and time for a better analysis.
-Add a ride lenght column, this is going to be the main attribute to analyse.
-Select the useful data and save it in a csv. file
+- <b>Missing values (NA).<b>
+- <b>Duplicates.<b>
+- <b>Mistakes on data input (Unreal values).<b>
+<br/>
+Separate the date and time for a better analysis and add a ride lenght column, this is going to be the main attribute to analyse.<br />
+Select the useful data and save it in a csv. file.
 
 <h2>Phase 3: Data Analysis</h2>
+
+Show the basic statistical values of the ride length and compare them between casual users and member users.<br/>
+Show the following metrics and graphics:
+- <b>Rides data by type and weekday.<b>
+- <b>Visualization for number of rides.<b>
+- <b>Visualization for average duration of rides.<b>
+- <b>Rider length data by customer type and month.<b>
 
 <h2>Conclusion</h2>
 
