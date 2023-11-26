@@ -10,11 +10,23 @@ This project sonsist on working with a dataset of bike rides in 2022, in order t
 - <b>[Phase 1: Data Preparation](#phase-1-data-preparation)</b>
 - <b>[Phase 2: Data Cleaning](#phase-2-data-cleaning)</b>
 - <b>[Phase 3: Data Analysis](phase-3-data-analysis)</b>
-- <b>Conclusion</b>
+- <b>[Conclusion](#conclusion)</b>
 
 <h2>Phase 1: Data Preparation</h2>
 
+To start the job, activate the libraries we are going to use for these project. If you don't have, you can install them with the command install.packages("#Name_of_the_library#").
+Import the data and verify the number and names of the colums. In order to combine the data, all files must have the same column names.
+Combine the data and validate.
+
 <h2>Phase 2: Data Cleaning</h2>
+
+Remove data that is going to bias the analysis, for example:
+- <b>Missing values (NA)<b>
+- <b>Duplicates<b>
+- <b>Mistakes on data input (Unreal values)<b>
+Separate the date and time for a better analysis.
+Add a ride lenght column, this is going to be the main attribute to analyse.
+Select the useful data and save it in a csv. file
 
 <h2>Phase 3: Data Analysis</h2>
 
